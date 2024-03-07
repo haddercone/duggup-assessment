@@ -13,7 +13,7 @@
       alt=""
     />
     <p
-      class=" border-[0.5px] min-h-[90px] border-[#D0D5DD] flex p-5 justify-center items-center rounded-b-[12px]"
+      class=" border-[0.5px] min-h-[90px] max-h-[120px] border-[#D0D5DD] flex p-5 justify-center items-center rounded-b-[12px]"
     >
       {clipText(post.postHeading, 80)}
     </p>
